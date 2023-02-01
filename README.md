@@ -1,4 +1,4 @@
-# Curso-BigData
+# Course-BigData
 
 
 #Project Space X
